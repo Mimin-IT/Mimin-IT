@@ -1,47 +1,44 @@
 <p align="center">
-  <img src="img/tumbhnail.jpg" alt="Thumbnail" width="100%" style="border-radius: 12px;"/>
+  <img src="img/banner.jpg" alt="Thumbnail" width="100%" style="border-radius: 12px;"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Mimin IT</h1>
-<h3 align="center">🚀 Learner | Web3 Enthusiast | Tech Explorer</h3>
-
----
-
-### 🌟 About Me
-- 🔭 I’m currently working on **Airdrop Tracker (Telegram Mini App)**
-- 🌱 I’m currently learning **Web3 Development, Blockchain, and TON**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **becoming a better Web3 developer**
-- 💬 Ask me about **Web3, Airdrop Strategy, or Tech Tips**
-- ⚡ Fun fact: *I love turning coffee ☕ into code 💻*
+<h2 align="center">Always learning IT | Engaged in blockchain & crypto airdrop opportunities</h2>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mimin-IT&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mimin-IT&theme=tokyonight" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mimin-IT&show_icons=true&title_color=FFD700&icon_color=FFA500&text_color=00BFFF&bg_color=0D1117" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mimin-IT&theme=dark&ring=FFD700&fire=FFA500&currStreakLabel=00BFFF&background=0D1117&dates=00BFFF&sideNums=FFA500&currStreakNum=FFD700" alt="streak" height="160"/>
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools (Web3 Oriented)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,figma,solidity,linux" />
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,react,nodejs,python,html,css,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+### 🔗 Useful Links
 
----
+#### • Media Sosial Airdrop
+- [Instagram](https://www.instagram.com/coin_airdrop.id/profilecard/?igsh=amhuMXFuOG1yYXZh)  
+- [TikTok](https://www.tiktok.com/@coin_airdrop.id?_t=8rFk0ksR1sX&_r=1)  
+- [YouTube](https://youtube.com/@coin_airdrop_id?si=s3-xwj58nyqsjSZv)  
+- [Twitter (X)](https://x.com/coin_airdrop_id?t=UJuB3EcJha4ktK77C09abA&s=09)  
 
-### ✨ Fun Aesthetic Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+#### • Media Sosial IT
+- [Instagram](https://www.instagram.com/mimin.it?igsh=MWpwd294Znp2djEzNQ==)  
+- [TikTok](https://www.tiktok.com/@mimin_it?_t=ZS-8z2XBkgYvGq&_r=1)  
+- [Twitter (X)](https://x.com/mimin_it?t=vSdzTZf03YBuiS9t4kxNVg&s=09)  
+- [YouTube](https://youtube.com/@mimin_it_official?si=SHIB3oz1r7CaRn10)  
+- [LinkedIn](https://www.linkedin.com/in/mimin-it-532421378)  
+
+#### • Komunitas Belajar IT
+- [Grup Belajar IT (Telegram)](https://t.me/Grup_Belajar_IT)  
+
+#### • Komunitas Airdrop
+- [Grup Airdrop (Telegram)](https://t.me/grup_airdrop_indonesia)  
+- [Channel Airdrop (Telegram)](https://t.me/coin_airdrop_id)  
