@@ -2,7 +2,7 @@
   <img src="img/banner.jpg" alt="Thumbnail" width="100%" style="border-radius: 12px;"/>
 </p>
 
-<h2 align="center">Always learning IT | Engaged in blockchain & crypto airdrop opportunities</h2>
+<h2 align="center">🪙 Actively managing crypto airdrops | 👨‍💻 Continuously learning IT</h2>
 
 ---
 
@@ -42,26 +42,6 @@
     </a>
     <a href="https://x.com/coin_airdrop_id?t=UJuB3EcJha4ktK77C09abA&s=09">
       <img src="https://img.shields.io/badge/Twitter(X)-skyblue?style=for-the-badge&logo=x&logoColor=white"/>
-    </a>
-  </p>
-
-  <!-- Media Sosial IT -->
-  <h3>💻 Media Sosial IT</h3>
-  <p>
-    <a href="https://www.instagram.com/mimin.it?igsh=MWpwd294Znp2djEzNQ==">
-      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://www.tiktok.com/@mimin_it?_t=ZS-8z2XBkgYvGq&_r=1">
-      <img src="https://img.shields.io/badge/TikTok-pink?style=for-the-badge&logo=tiktok&logoColor=white"/>
-    </a>
-    <a href="https://x.com/mimin_it?t=vSdzTZf03YBuiS9t4kxNVg&s=09">
-      <img src="https://img.shields.io/badge/Twitter(X)-blue?style=for-the-badge&logo=x&logoColor=white"/>
-    </a>
-    <a href="https://youtube.com/@mimin_it_official?si=SHIB3oz1r7CaRn10">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/mimin-it-532421378">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
 
