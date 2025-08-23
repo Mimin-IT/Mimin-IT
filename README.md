@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="img/Banner Web3.png" alt="Thumbnail" width="100%" style="border-radius: 12px;"/>
+  <img src="img/web3.jpg" alt="Thumbnail" width="100%" style="border-radius: 12px;"/>
 </p>
-
-<h2 align="center">🪙 Actively managing crypto airdrops | 👨‍💻 Continuously learning Web3</h2>
 
 ---
 
@@ -24,8 +22,6 @@
 </p>
 
 ---
-
-### 🔗 Useful Links
 <div align="center">
 
   <!-- Media Sosial Airdrop -->
