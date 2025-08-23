@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="img/banner.jpg" alt="Thumbnail" width="100%" style="border-radius: 12px;"/>
+  <img src="img/Banner Web3.png" alt="Thumbnail" width="100%" style="border-radius: 12px;"/>
 </p>
 
-<h2 align="center">🪙 Actively managing crypto airdrops | 👨‍💻 Continuously learning IT</h2>
+<h2 align="center">🪙 Actively managing crypto airdrops | 👨‍💻 Continuously learning Web3</h2>
 
 ---
 
@@ -46,10 +46,10 @@
   </p>
 
   <!-- Komunitas -->
-  <h3>🌐 Komunitas</h3>
+  <h3>🌐 Koneksi</h3>
   <p>
-    <a href="https://t.me/Grup_Belajar_IT">
-      <img src="https://img.shields.io/badge/Telegram-Grup_Belajar_IT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <a href="https://t.me/Komunitas_Belajar_Web3">
+      <img src="https://img.shields.io/badge/Telegram-Komunitas_Belajar_Web3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
     <a href="https://t.me/grup_airdrop_indonesia">
       <img src="https://img.shields.io/badge/Telegram-Grup_Airdrop-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
